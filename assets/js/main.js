@@ -1,7 +1,7 @@
 const pokemonList = document.getElementById('pokemonList')
 const loadMoreButton = document.getElementById('loadMoreButton')
 
-const maxRexords = 151
+const maxRexords = 493
 const limit = 10;
 let offset = 0;
 
